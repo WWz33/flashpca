@@ -9,3 +9,7 @@
 *.log
 .DS_Store
 
+
+flashpcaR/src/*.dll
+flashpcaR/src/*.o
+flashpcaR/src/*.so
